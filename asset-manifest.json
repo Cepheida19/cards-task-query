@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cards-task-query/static/css/main.16da7f6c.css",
+    "main.js": "/cards-task-query/static/js/main.b43b629f.js",
+    "index.html": "/cards-task-query/index.html",
+    "main.16da7f6c.css.map": "/cards-task-query/static/css/main.16da7f6c.css.map",
+    "main.b43b629f.js.map": "/cards-task-query/static/js/main.b43b629f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16da7f6c.css",
+    "static/js/main.b43b629f.js"
+  ]
+}
